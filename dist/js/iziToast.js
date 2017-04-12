@@ -66,7 +66,7 @@
 		balloon: false,
 		close: true,
 		rtl: false,
-		position: 'bottomRight', // bottomRight, bottomLeft, topRight, topLeft, topCenter, bottomCenter, center
+		position: 'topRight', // bottomRight, bottomLeft, topRight, topLeft, topCenter, bottomCenter, center
 		target: '',
 		targetFirst: true,
 		timeout: 5000,
